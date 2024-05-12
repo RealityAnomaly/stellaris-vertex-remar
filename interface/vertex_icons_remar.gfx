@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_ship_part_vertex_nanofield_shield"
+		texturefile = "gfx/interface/icons/ship_parts/ship_part_vertex_nanofield_shield.dds"
+	}
+}

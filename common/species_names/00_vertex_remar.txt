@@ -1,0 +1,19 @@
+REP = {
+	tasen = {
+		name = SPEC_Tasen
+		plural = SPEC_Tasen_pl
+		home_planet = SPEC_Tasen_planet
+		home_system = SPEC_Tasen_system
+		name_list = "TASEN"
+	}
+}
+
+AVI = {
+	komato = {
+		name = SPEC_Komato
+		plural = SPEC_Komato_pl
+		home_planet = SPEC_Komato_planet
+		home_system = SPEC_Komato_system
+		name_list = "KOMATO"
+	}
+}

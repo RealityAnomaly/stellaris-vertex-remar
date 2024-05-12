@@ -1,0 +1,46 @@
+﻿l_english:
+ name_list_TASEN:0 "Tasen"
+ 
+ me_Tasen:0 "Elem Sioz"
+ SPEC_Tasen:0 "Tasen"
+ SPEC_Tasen_pl:0 "Tasen"
+ SPEC_Tasen_planet:0 "Elem Sioz"
+ SPEC_Tasen_system:0 "Elem Sioz"
+
+ EMPIRE_DESIGN_tasen:0 "Tasen"
+ EMPIRE_DESIGN_tasen_desc:0 "Placeholder"
+ PRESCRIPTED_adjective_tasen:0 "Tasen"
+ PRESCRIPTED_ship_prefix_tasen:0 "TAS"
+ PRESCRIPTED_planet_name_tasen:0 "Elem Sioz"
+ PRESCRIPTED_system_name_tasen:0 "Elem Sioz"
+ PRESCRIPTED_ruler_name_tasen:0 "Hel Sarie"
+ PRESCRIPTED_ruler_title_tasen:0 "Grand Elite"
+ PRESCRIPTED_species_name_tasen:0 "Tasen"
+ PRESCRIPTED_species_plural_tasen:0 "Tasen"
+ PRESCRIPTED_species_adjective_tasen:0 "Tasen $1$"
+ 
+ PRESCRIPTED_ruler_bio_tasen:0 "Placeholder"
+ START_SCREEN_PART_TWO_TASEN:0 "Something about running from the komato blah blah"
+
+ name_list_KOMATO:0 "Komato"
+ 
+ me_Komato:0 "Tadezocora"
+ SPEC_Komato:0 "Komato"
+ SPEC_Komato_pl:0 "Komato"
+ SPEC_Komato_planet:0 "Tadezocora"
+ SPEC_Komato_system:0 "Tadezocora"
+
+ EMPIRE_DESIGN_komato:0 "Komato"
+ EMPIRE_DESIGN_komato_desc:0 "Placeholder"
+ PRESCRIPTED_adjective_komato:0 "Komato"
+ PRESCRIPTED_ship_prefix_komato:0 "KOM"
+ PRESCRIPTED_planet_name_komato:0 "Tadezocora"
+ PRESCRIPTED_system_name_komato:0 "Tadezocora"
+ PRESCRIPTED_ruler_name_komato:0 "Tor"
+ PRESCRIPTED_ruler_title_komato:0 "General"
+ PRESCRIPTED_species_name_komato:0 "Komato"
+ PRESCRIPTED_species_plural_komato:0 "Komato"
+ PRESCRIPTED_species_adjective_komato:0 "Komato $1$"
+ 
+ PRESCRIPTED_ruler_bio_komato:0 "Placeholder"
+ START_SCREEN_PART_TWO_KOMATO:0 "Something about technological ascension blah blah"

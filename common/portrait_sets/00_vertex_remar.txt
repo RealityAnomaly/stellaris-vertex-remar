@@ -1,0 +1,15 @@
+vertex_remar_tasen = {
+  species_class = REP
+
+  portraits = {
+    "tasen"
+  }
+}
+
+vertex_remar_komato = {
+  species_class = AVI
+
+  portraits = {
+    "komato"
+  }
+}

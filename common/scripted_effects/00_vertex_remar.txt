@@ -1,0 +1,18 @@
+vertex_start_effect_tasen = {
+	# give all the starting technology
+	give_technology = { tech = tech_basic_science_lab_1 message = no }
+	give_technology = { tech = tech_administrative_ai message = no }
+	give_technology = { tech = tech_self_aware_logic message = no }
+	give_technology = { tech = tech_combat_computers_1 message = no }
+	give_technology = { tech = tech_combat_computers_2 message = no }
+}
+
+vertex_start_effect_komato = {
+	give_technology = { tech = tech_basic_science_lab_1 message = no }
+	give_technology = { tech = tech_administrative_ai message = no }
+	give_technology = { tech = tech_self_aware_logic message = no }
+	give_technology = { tech = tech_sapient_ai message = no }
+	give_technology = { tech = tech_combat_computers_1 message = no }
+	give_technology = { tech = tech_combat_computers_2 message = no }
+	give_technology = { tech = tech_combat_computers_3 message = no }
+}

@@ -1,0 +1,153 @@
+vertex_remar_tasen = {
+	name = "EMPIRE_DESIGN_tasen"
+	adjective = "PRESCRIPTED_adjective_tasen"
+
+	spawn_enabled = yes
+	spawn_as_fallen = no
+
+	ship_prefix = "PRESCRIPTED_ship_prefix_tasen"
+
+	species = {
+		class = "REP"
+		portrait = "tasen"
+		name = "PRESCRIPTED_species_name_tasen"
+		plural = "PRESCRIPTED_species_plural_tasen"
+		adjective = "PRESCRIPTED_species_adjective_tasen"
+		name_list = "TASEN"
+		#trait = "trait_additrait_born_warriors"
+		#trait = "trait_additrait_extremely_aggressive"
+		trait = "trait_slow_breeders"
+		trait = "trait_resilient"
+	}
+
+	room = "personality_democratic_crusaders_room"
+
+	ethic = "ethic_xenophobe"
+	ethic = "ethic_militarist"
+	ethic = "ethic_materialist"
+	authority = "auth_imperial"
+	government = "gov_martial_empire"
+	civics = { "civic_warrior_culture" "civic_nationalistic_zeal" }
+	origin = "origin_default"
+
+	flags = { vertex_country_tasen }
+
+	system_name = "PRESCRIPTED_system_name_tasen"
+	planet_name = "PRESCRIPTED_planet_name_tasen"
+	planet_class = "pc_continental"
+	initializer = ""
+
+	graphical_culture = "nemesis_01"
+	city_graphical_culture = "reptilian_01"
+	advisor_voice_type = "l_militarist"
+
+	empire_flag = {
+		icon = {
+			category = "domination"
+			file = "domination_17.dds"
+		}
+		background = {
+			category = "backgrounds"
+			file = "circle.dds"
+		}
+		colors = {
+			"black"
+			"intense_red"
+			"null"
+			"null"
+		}
+	}
+
+	ruler = {
+		name = "PRESCRIPTED_ruler_name_tasen"
+		ruler_title = "PRESCRIPTED_ruler_title_tasen"
+
+		gender = male
+		portrait = "tasen_soldier_vateilika" # todo
+		texture = 1
+		attachment = 0
+		clothes = 3
+
+		custom_biography = "PRESCRIPTED_ruler_bio_tasen"
+	
+		trait = "trait_ruler_eye_for_talent"
+		leader_class = official
+	}
+}
+
+vertex_remar_komato = {
+	name = "EMPIRE_DESIGN_komato"
+	adjective = "PRESCRIPTED_adjective_komato"
+
+	spawn_enabled = yes
+	spawn_as_fallen = no
+
+	ship_prefix = "PRESCRIPTED_ship_prefix_komato"
+
+	species = {
+		class = "AVI"
+		portrait = "komato"
+		name = "PRESCRIPTED_species_name_komato"
+		plural = "PRESCRIPTED_species_plural_komato"
+		adjective = "PRESCRIPTED_species_adjective_komato"
+		name_list = "KOMATO"
+		#trait = "trait_additrait_born_warriors"
+		#trait = "trait_additrait_extremely_aggressive"
+		trait = "trait_slow_breeders"
+		trait = "trait_resilient"
+	}
+
+	room = "personality_democratic_crusaders_room"
+
+	ethic = "ethic_xenophobe"
+	ethic = "ethic_militarist"
+	ethic = "ethic_materialist"
+	authority = "auth_imperial"
+	government = "gov_martial_empire"
+	civics = { "civic_warrior_culture" "civic_nationalistic_zeal" }
+	origin = "origin_default"
+
+	flags = { vertex_country_komato }
+
+	system_name = "PRESCRIPTED_system_name_komato"
+	planet_name = "PRESCRIPTED_planet_name_komato"
+	planet_class = "pc_continental"
+	initializer = ""
+
+	graphical_culture = "nemesis_01"
+	city_graphical_culture = "reptilian_01"
+	advisor_voice_type="l_militarist"
+
+	empire_flag = {
+		icon = {
+			category = "domination"
+			file = "domination_17.dds"
+		}
+		background = {
+			category = "backgrounds"
+			file = "circle.dds"
+		}
+		colors = {
+			"black"
+			"intense_red"
+			"null"
+			"null"
+		}
+	}
+
+	ruler = {
+		name = "PRESCRIPTED_ruler_name_komato"
+		ruler_title = "PRESCRIPTED_ruler_title_komato"
+
+		gender = male
+		portrait = "komato_assassin_asha"
+		texture = 1
+		attachment = 0
+		clothes = 3
+
+		custom_biography = "PRESCRIPTED_ruler_bio_komato"
+	
+		trait = "trait_ruler_charismatic"
+		leader_class = "official"
+	}
+}

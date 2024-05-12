@@ -1,0 +1,402 @@
+﻿# Created by Daniel Remar
+# Adapted to Stellaris by Vertex
+
+TASEN = {
+	category = "Avian"
+	ship_names = {
+		generic = {
+			AVI1_SHIP_SoaringHatchling AVI1_SHIP_FightingHatchling AVI1_SHIP_NimbleHatchling AVI1_SHIP_DefiantHatchling AVI1_SHIP_ResilientHatchling AVI1_SHIP_FuriousHatchling AVI1_SHIP_ConfidentHatchling AVI1_SHIP_CleverHatchling AVI1_SHIP_CunningHatchling AVI1_SHIP_ProdigalHatchling AVI1_SHIP_JubilantHatchling AVI1_SHIP_ImpudentHatchling AVI1_SHIP_CrazyHatchling AVI1_SHIP_ObservantHatchling AVI1_SHIP_VengefulHatchling AVI1_SHIP_SpitefulHatchling AVI1_SHIP_VindictiveHatchling AVI1_SHIP_RestlessHatchling AVI1_SHIP_RavenousHatchling AVI1_SHIP_RuthlessHatchling AVI1_SHIP_BraveHatchling AVI1_SHIP_FearlessHatchling AVI1_SHIP_JovialHatchling AVI1_SHIP_IndignantHatchling AVI1_SHIP_SlyHatchling AVI1_SHIP_SillyHatchling AVI1_SHIP_HappyHatchling AVI1_SHIP_UnstableHatchling AVI1_SHIP_PrudentHatchling AVI1_SHIP_SolitaryHatchling AVI1_SHIP_PerceptiveHatchling AVI1_SHIP_UnpredictableHatchling AVI1_SHIP_ImpetuousHatchling AVI1_SHIP_BanefulHatchling AVI1_SHIP_DeviousHatchling AVI1_SHIP_GracefulHatchling AVI1_SHIP_UnyieldingHatchling AVI1_SHIP_PatientHatchling AVI1_SHIP_StalwartHatchling AVI1_SHIP_FierceHatchling AVI1_SHIP_UnforgivingHatchling AVI1_SHIP_ImperviousHatchling AVI1_SHIP_LuckyHatchling AVI1_SHIP_CourageousHatchling AVI1_SHIP_BrashHatchling AVI1_SHIP_ImpertinentHatchling AVI1_SHIP_DependableHatchling AVI1_SHIP_SpiritedHatchling AVI1_SHIP_WildHatchling AVI1_SHIP_VivaciousHatchling AVI1_SHIP_ArdentHatchling AVI1_SHIP_VigorousHatchling AVI1_SHIP_MettlesomeHatchling AVI1_SHIP_LivelyHatchling AVI1_SHIP_BriskHatchling AVI1_SHIP_AnimatedHatchling AVI1_SHIP_TenaciousHatchling AVI1_SHIP_PertinaciousHatchling AVI1_SHIP_StubbornHatchling AVI1_SHIP_ResoluteHatchling AVI1_SHIP_ObstinateHatchling AVI1_SHIP_ObdurateHatchling AVI1_SHIP_FerociousHatchling AVI1_SHIP_FrenziedHatchling AVI1_SHIP_TempestuousHatchling AVI1_SHIP_TurbulentHatchling AVI1_SHIP_RecklessHatchling AVI1_SHIP_SavageHatchling AVI1_SHIP_UnrestrainedHatchling AVI1_SHIP_RiotousHatchling AVI1_SHIP_InsaneHatchling AVI1_SHIP_BoisterousHatchling AVI1_SHIP_RowdyHatchling AVI1_SHIP_ClamorousHatchling AVI1_SHIP_PersistentHatchling AVI1_SHIP_VehementHatchling AVI1_SHIP_ZealousHatchling AVI1_SHIP_PassionateHatchling AVI1_SHIP_RapaciousHatchling AVI1_SHIP_ValiantHatchling AVI1_SHIP_DauntlessHatchling AVI1_SHIP_StoutHatchling AVI1_SHIP_UnkemptHatchling AVI1_SHIP_UngroomedHatchling AVI1_SHIP_DerangedHatchling AVI1_SHIP_DementedHatchling AVI1_SHIP_ImpatientHatchling AVI1_SHIP_NonconformingHatchling AVI1_SHIP_ImprudentHatchling AVI1_SHIP_RashHatchling AVI1_SHIP_HeedlessHatchling AVI1_SHIP_ObliviousHatchling AVI1_SHIP_ViolentHatchling AVI1_SHIP_UndomesticatedHatchling AVI1_SHIP_FeralHatchling AVI1_SHIP_WaywardHatchling AVI1_SHIP_CapriciousHatchling AVI1_SHIP_VolatileHatchling AVI1_SHIP_MercurialHatchling AVI1_SHIP_SprightlyHatchling AVI1_SHIP_BlitheHatchling AVI1_SHIP_MerryHatchling AVI1_SHIP_JoyousHatchling AVI1_SHIP_CheerfulHatchling AVI1_SHIP_BuoyantHatchling AVI1_SHIP_InvigoratedHatchling AVI1_SHIP_MirthfulHatchling AVI1_SHIP_SpryHatchling AVI1_SHIP_AlertHatchling AVI1_SHIP_HeadstrongHatchling AVI1_SHIP_UnrulyHatchling AVI1_SHIP_RefractoryHatchling AVI1_SHIP_EccentricHatchling AVI1_SHIP_ErraticHatchling AVI1_SHIP_PeculiarHatchling AVI1_SHIP_DeviantHatchling AVI1_SHIP_TestyHatchling AVI1_SHIP_CrossHatchling AVI1_SHIP_IrascibleHatchling AVI1_SHIP_CholericHatchling AVI1_SHIP_WrathfulHatchling AVI1_SHIP_BrusqueHatchling AVI1_SHIP_GruffHatchling AVI1_SHIP_SurlyHatchling AVI1_SHIP_UncivilHatchling AVI1_SHIP_CrabbyHatchling AVI1_SHIP_SullenHatchling AVI1_SHIP_SpleneticHatchling AVI1_SHIP_OminousHatchling AVI1_SHIP_GloomyHatchling AVI1_SHIP_DourHatchling AVI1_SHIP_ImperiousHatchling AVI1_SHIP_HaughtyHatchling AVI1_SHIP_ProudHatchling AVI1_SHIP_ScornfulHatchling AVI1_SHIP_ContemptuousHatchling AVI1_SHIP_SuperciliousHatchling AVI1_SHIP_SingingHatchling AVI1_SHIP_AttentiveHatchling AVI1_SHIP_WatchfulHatchling AVI1_SHIP_ImpishHatchling
+		}
+
+		corvette = {
+		}
+
+		destroyer = {
+		}
+
+		cruiser = {
+		}
+
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+
+		science = {
+		}
+
+		colonizer = {
+		}
+
+		constructor = {
+		}
+
+		transport = {
+		}
+
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	ship_class_names = {
+		generic = {
+			AVI1_CLASS_VTaka AVI1_CLASS_KMirom AVI1_CLASS_MIskarRo AVI1_CLASS_SPorak AVI1_CLASS_SKothan AVI1_CLASS_JKal AVI1_CLASS_Yeerel AVI1_CLASS_Yaaskan AVI1_CLASS_LDorak AVI1_CLASS_Bwiik AVI1_CLASS_Kraanak AVI1_CLASS_JVorok AVI1_CLASS_MSarok AVI1_CLASS_STirani AVI1_CLASS_VIrimak AVI1_CLASS_STarok AVI1_CLASS_MIsoram AVI1_CLASS_DPanokRo AVI1_CLASS_VBamiRo AVI1_CLASS_Yaruuk AVI1_CLASS_Bwaaki AVI1_CLASS_Koruuk AVI1_CLASS_KTanek AVI1_CLASS_SKiro AVI1_CLASS_DDaduro AVI1_CLASS_JKilar AVI1_CLASS_SRarako AVI1_CLASS_VKorun AVI1_CLASS_VTuriRo
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			AVI1_FLEET_GildedStarFlock AVI1_FLEET_PlumedStarFlock AVI1_FLEET_ReveredStarFlock AVI1_FLEET_HonoredStarFlock AVI1_FLEET_SoaringStarFlock AVI1_FLEET_PerchedStarFlock AVI1_FLEET_YSarkaStarFlock AVI1_FLEET_URuusuStarFlock AVI1_FLEET_SSaronaStarFlock AVI1_FLEET_TTsonaStarFlock AVI1_FLEET_YTranaStarFlock AVI1_FLEET_SItanisStarFlock AVI1_FLEET_YYsonniStarFlock
+		}
+		sequential_name = AVI1_STARFLOCK
+	}
+
+	army_names = {
+		machine_defense = {
+			sequential_name = AVI1_SECURITYWING
+		}
+
+		machine_assault_1 = {
+			sequential_name = AVI1_SPACEBORNE
+		}
+
+		machine_assault_2 = {
+			sequential_name = AVI1_SPACEBORNE
+		}
+
+		machine_assault_3 = {
+			sequential_name = AVI1_SPACEBORNE
+		}
+
+		defense_army = {
+			sequential_name = AVI1_SECURITYWING
+		}
+
+		assault_army = {
+			sequential_name = AVI1_SPACEBORNE
+		}
+
+		slave_army = {
+			sequential_name = AVI1_SERVILEARMY
+		}
+
+		clone_army = {
+			sequential_name = AVI1_CLONEFRONT
+		}
+
+		undead_army = {
+			sequential_name = AVI1_DREADARMY
+		}
+
+		robotic_army = {
+			sequential_name = AVI1_MACHINECOLUMN
+		}
+
+		robotic_defense_army = {
+			sequential_name = AVI1_MACHINESENTINELS
+		}
+
+		psionic_army = {
+			sequential_name = AVI1_TELEPATHICORDER
+		}
+
+		xenomorph_army = {
+			sequential_name = AVI1_XENOHERD
+		}
+
+		gene_warrior_army = {
+			sequential_name = AVI1_DEATHCOMMANDO
+		}
+
+		occupation_army = {
+			sequential_name = AVI1_OCCUPATIONWING
+		}
+
+		robotic_occupation_army = {
+			sequential_name = AVI1_OCCUPATIONMACHINES
+		}
+
+		primitive_army = {
+			sequential_name = AVI1_PRIMITIVEARMY
+		}
+		industrial_army = {
+			sequential_name = AVI1_INDUSTRIALARMY
+		}
+		postatomic_army = {
+			sequential_name = AVI1_POSTATOMICARMY
+		}
+	}
+
+	planet_names = {
+		generic = {
+			names = {
+			}
+		}
+
+		pc_desert = {
+			names = {
+			}
+		}
+
+		pc_tropical = {
+			names = {
+			}
+		}
+
+		pc_arid = {
+			names = {
+			}
+		}
+
+		pc_continental = {
+			names = {
+				# TASEN_PLANET_Elem_Sioz already taken
+				TASEN_PLANET_Lonimadel
+			}
+		}
+
+		pc_ocean = {
+			names = {
+			}
+		}
+
+		pc_tundra = {
+			names = {
+			}
+		}
+
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+	}
+
+	character_names = {
+		default = {
+			first_names = {
+				TASEN_CHR_An TASEN_CHR_Anli TASEN_CHR_Anmaesk TASEN_CHR_As TASEN_CHR_Asa TASEN_CHR_Asdel TASEN_CHR_Asei TASEN_CHR_Ashdel TASEN_CHR_Ashihaso TASEN_CHR_Askeiota TASEN_CHR_Aslova TASEN_CHR_Asti TASEN_CHR_Astoh TASEN_CHR_Aswu TASEN_CHR_Au TASEN_CHR_Aumaba TASEN_CHR_Auta TASEN_CHR_Aysa TASEN_CHR_Bacatabu TASEN_CHR_Baqyi TASEN_CHR_Barosie TASEN_CHR_Ber TASEN_CHR_Berako TASEN_CHR_Berge TASEN_CHR_Besaeti TASEN_CHR_Bevapa TASEN_CHR_Bujaoro TASEN_CHR_Bulei TASEN_CHR_Bupaqu TASEN_CHR_Caanwa TASEN_CHR_Cazedel TASEN_CHR_Cece TASEN_CHR_Cerixumah TASEN_CHR_Cesun TASEN_CHR_Cetor TASEN_CHR_Cobu TASEN_CHR_Coesta TASEN_CHR_Copakri TASEN_CHR_Coriwaqu TASEN_CHR_Cosietu TASEN_CHR_Covayah TASEN_CHR_Dehemni TASEN_CHR_Del TASEN_CHR_Delderohas TASEN_CHR_Delpah TASEN_CHR_Delsho TASEN_CHR_Derak TASEN_CHR_Deroi TASEN_CHR_Detorpe TASEN_CHR_Dezo TASEN_CHR_Elde TASEN_CHR_Elipera TASEN_CHR_Elsa TASEN_CHR_Em TASEN_CHR_Embu TASEN_CHR_Emhauk TASEN_CHR_Emmae TASEN_CHR_Emshata TASEN_CHR_Es TASEN_CHR_Esem TASEN_CHR_Esgren TASEN_CHR_Espay TASEN_CHR_Estepei TASEN_CHR_Eswa TASEN_CHR_Eswakzo TASEN_CHR_Fahel TASEN_CHR_Falo TASEN_CHR_Favi TASEN_CHR_Grenhasel TASEN_CHR_Grenka TASEN_CHR_Grenkaitu TASEN_CHR_Greno TASEN_CHR_Grenrahauk TASEN_CHR_Grenti TASEN_CHR_Grenuti TASEN_CHR_Haavi TASEN_CHR_Haia TASEN_CHR_Haisak TASEN_CHR_Hapa TASEN_CHR_Harieje TASEN_CHR_Hasconio TASEN_CHR_Haspei TASEN_CHR_Hassjawak TASEN_CHR_Hasto TASEN_CHR_Hastohem TASEN_CHR_Hastuwate TASEN_CHR_Hasu TASEN_CHR_Hauk TASEN_CHR_Haukpei TASEN_CHR_Hawu TASEN_CHR_Hel TASEN_CHR_Helmakai TASEN_CHR_Helroihauk TASEN_CHR_Helsak TASEN_CHR_Hem TASEN_CHR_Hemgren TASEN_CHR_Hempei TASEN_CHR_Hemsarier TASEN_CHR_Heseilo TASEN_CHR_Honadelot TASEN_CHR_Ibupay TASEN_CHR_Ifei TASEN_CHR_Ikajhok TASEN_CHR_Iri TASEN_CHR_Ja TASEN_CHR_Jaberi TASEN_CHR_Jage TASEN_CHR_Jao TASEN_CHR_Jaofei TASEN_CHR_Jaope TASEN_CHR_Japeito TASEN_CHR_Jati TASEN_CHR_Jeka TASEN_CHR_Jhokta TASEN_CHR_Jhoktei TASEN_CHR_Ka TASEN_CHR_Kabe TASEN_CHR_Kalo TASEN_CHR_Kapah TASEN_CHR_Kaquotsun TASEN_CHR_Kari TASEN_CHR_Kasaot TASEN_CHR_Kavak TASEN_CHR_Ke TASEN_CHR_Kematasa TASEN_CHR_Kepaktoh TASEN_CHR_Klash TASEN_CHR_Klasjaan TASEN_CHR_Klexu TASEN_CHR_Klogrenu TASEN_CHR_Krotera TASEN_CHR_Lei TASEN_CHR_Leige TASEN_CHR_Liroto TASEN_CHR_Lite TASEN_CHR_Lixu TASEN_CHR_Lofeito TASEN_CHR_Lohauk TASEN_CHR_Loroiyi TASEN_CHR_Mae TASEN_CHR_Maeja TASEN_CHR_Maezon TASEN_CHR_Mahxu TASEN_CHR_Malei TASEN_CHR_Mali TASEN_CHR_Mapak TASEN_CHR_Mari TASEN_CHR_Matoh TASEN_CHR_Mavak TASEN_CHR_Mawa TASEN_CHR_Na TASEN_CHR_Naeman TASEN_CHR_Nazon TASEN_CHR_Nicosaktor TASEN_CHR_Nidely TASEN_CHR_Nio TASEN_CHR_Niowaklo TASEN_CHR_Niquh TASEN_CHR_Niwakmae TASEN_CHR_Nixuto TASEN_CHR_Ogrensie TASEN_CHR_Otelcau TASEN_CHR_Otozobe TASEN_CHR_Otraktie TASEN_CHR_Pa TASEN_CHR_Pah TASEN_CHR_Pahemli TASEN_CHR_Pahemsun TASEN_CHR_Pahesk TASEN_CHR_Pahot TASEN_CHR_Pakaze TASEN_CHR_Paktei TASEN_CHR_Paydepei TASEN_CHR_Payte TASEN_CHR_Pei TASEN_CHR_Peihemfei TASEN_CHR_Peio TASEN_CHR_Peroi TASEN_CHR_Quburu TASEN_CHR_Quhtei TASEN_CHR_Qunati TASEN_CHR_Qurasha TASEN_CHR_Qurawa TASEN_CHR_Quwao TASEN_CHR_Ra TASEN_CHR_Raber TASEN_CHR_Rafajena TASEN_CHR_Raigren TASEN_CHR_Rakaiwu TASEN_CHR_Rakjanio TASEN_CHR_Rakwu TASEN_CHR_Rasha TASEN_CHR_Rayah TASEN_CHR_Ribe TASEN_CHR_Rieesk TASEN_CHR_Riero TASEN_CHR_Rihauk TASEN_CHR_Ritema TASEN_CHR_Ro TASEN_CHR_Roha TASEN_CHR_Roigren TASEN_CHR_Roja TASEN_CHR_Roniba TASEN_CHR_Rorak TASEN_CHR_Saefa TASEN_CHR_Saegren TASEN_CHR_Saenanita TASEN_CHR_Saetor TASEN_CHR_Saka TASEN_CHR_Sakhas TASEN_CHR_Saqubu TASEN_CHR_Sasjusa TASEN_CHR_Shahauk TASEN_CHR_Sharai TASEN_CHR_Sharaiqy TASEN_CHR_Shoca TASEN_CHR_Shofali TASEN_CHR_Shofei TASEN_CHR_Shohaka TASEN_CHR_Shouma TASEN_CHR_Siefa TASEN_CHR_Sunha TASEN_CHR_Sunhem TASEN_CHR_Sunkeroi TASEN_CHR_Sunmawa TASEN_CHR_Sunsak TASEN_CHR_Suntie TASEN_CHR_Taasjasak TASEN_CHR_Taelfei TASEN_CHR_Tajasun TASEN_CHR_Tei TASEN_CHR_Teini TASEN_CHR_Teira TASEN_CHR_Teitu TASEN_CHR_Ti TASEN_CHR_Tidepaash TASEN_CHR_Tiei TASEN_CHR_Tiikatei TASEN_CHR_Tilohauk TASEN_CHR_Tisae TASEN_CHR_Toh TASEN_CHR_Tohel TASEN_CHR_Tor TASEN_CHR_Torjaoto TASEN_CHR_Torkai TASEN_CHR_Torri TASEN_CHR_Toshadel TASEN_CHR_Tosjael TASEN_CHR_Tusun TASEN_CHR_Tuva TASEN_CHR_Unijero TASEN_CHR_Uria TASEN_CHR_Utoli TASEN_CHR_Uzon TASEN_CHR_Vajagren TASEN_CHR_Vakeelta TASEN_CHR_Vakrai TASEN_CHR_Vateilika TASEN_CHR_Viride TASEN_CHR_Visun TASEN_CHR_Vitohlei TASEN_CHR_Voe TASEN_CHR_Voesak TASEN_CHR_Voetoro TASEN_CHR_Wakro TASEN_CHR_Waktuke TASEN_CHR_Waquhes TASEN_CHR_Wawaksie TASEN_CHR_Wu TASEN_CHR_Wugren TASEN_CHR_Wusae TASEN_CHR_Xaas TASEN_CHR_Xalei TASEN_CHR_Xarajao TASEN_CHR_Xatie TASEN_CHR_Xaxa TASEN_CHR_Xuantura TASEN_CHR_Xuaroika TASEN_CHR_Xueshastu TASEN_CHR_Xufei TASEN_CHR_Xugepei TASEN_CHR_Xuotta TASEN_CHR_Xuribeyi TASEN_CHR_Xusha TASEN_CHR_Xutei TASEN_CHR_Yabaturaibu TASEN_CHR_Yaeisako TASEN_CHR_Yah TASEN_CHR_Yahi TASEN_CHR_Yahpa TASEN_CHR_Yahsie TASEN_CHR_Yahwak TASEN_CHR_Yankaio TASEN_CHR_Yaze TASEN_CHR_Yies TASEN_CHR_Yinaklas TASEN_CHR_Yipaxu TASEN_CHR_Yisaktu TASEN_CHR_Yisie TASEN_CHR_Yizepay TASEN_CHR_Yrak TASEN_CHR_Yriema TASEN_CHR_Yukabacera TASEN_CHR_Yukeca TASEN_CHR_Yutorha TASEN_CHR_Yuyu TASEN_CHR_Zebeli TASEN_CHR_Zege TASEN_CHR_Zerak TASEN_CHR_Zerie TASEN_CHR_Zesie TASEN_CHR_Zetirie TASEN_CHR_Zon TASEN_CHR_Zongeas TASEN_CHR_Zonhelico TASEN_CHR_Zoniorak TASEN_CHR_Zonohasha TASEN_CHR_Zonotuca TASEN_CHR_Zonrak TASEN_CHR_Zonrie TASEN_CHR_Zotakai TASEN_CHR_Zoyah
+			}
+
+			second_names = {
+				TASEN_CHR_Abersa TASEN_CHR_An TASEN_CHR_Ansho TASEN_CHR_Ashridel TASEN_CHR_Ayah TASEN_CHR_Ba TASEN_CHR_Bacoisun TASEN_CHR_Bai TASEN_CHR_Berke TASEN_CHR_Bervoe TASEN_CHR_Besha TASEN_CHR_Bexu TASEN_CHR_Cacosaolo TASEN_CHR_Cahashem TASEN_CHR_Ce TASEN_CHR_Del TASEN_CHR_Es TASEN_CHR_Fa TASEN_CHR_Fakera TASEN_CHR_Famae TASEN_CHR_Faratie TASEN_CHR_Fei TASEN_CHR_Feiwaktor TASEN_CHR_Ge TASEN_CHR_Genio TASEN_CHR_Hage TASEN_CHR_Hasja TASEN_CHR_Hastoh TASEN_CHR_Hauk TASEN_CHR_Haukti TASEN_CHR_Hel TASEN_CHR_Helni TASEN_CHR_Helpak TASEN_CHR_Ixuel TASEN_CHR_Izoni TASEN_CHR_Je TASEN_CHR_Jezo TASEN_CHR_Jhokdel TASEN_CHR_Kai TASEN_CHR_Kepah TASEN_CHR_Li TASEN_CHR_Lipakotsun TASEN_CHR_Lo TASEN_CHR_Losaeja TASEN_CHR_Lotu TASEN_CHR_Mae TASEN_CHR_Maeo TASEN_CHR_Mahro TASEN_CHR_Mari TASEN_CHR_Namae TASEN_CHR_Nio TASEN_CHR_Payhauk TASEN_CHR_Payra TASEN_CHR_Pexu TASEN_CHR_Raktor TASEN_CHR_Rie TASEN_CHR_Rieba TASEN_CHR_Riesratu TASEN_CHR_Rihemco TASEN_CHR_Riya TASEN_CHR_Rokai TASEN_CHR_Sae TASEN_CHR_Savakrie TASEN_CHR_Sha TASEN_CHR_Shamah TASEN_CHR_Sho TASEN_CHR_Sie TASEN_CHR_Sjarak TASEN_CHR_Sun TASEN_CHR_Sunjao TASEN_CHR_Ta TASEN_CHR_Tayu TASEN_CHR_Te TASEN_CHR_Tei TASEN_CHR_Teisie TASEN_CHR_Tu TASEN_CHR_Tuvaxu TASEN_CHR_Vaksaera TASEN_CHR_Viamae TASEN_CHR_Viketo TASEN_CHR_Viqu TASEN_CHR_Viy TASEN_CHR_Voe TASEN_CHR_Wak TASEN_CHR_Wavate TASEN_CHR_Wunio TASEN_CHR_Xu TASEN_CHR_Xurai TASEN_CHR_Xutor TASEN_CHR_Xuvaksie TASEN_CHR_Yae TASEN_CHR_Yuraiwu TASEN_CHR_Zeja TASEN_CHR_Zejeni TASEN_CHR_Zelei TASEN_CHR_Zo TASEN_CHR_Zoxu
+			}
+		}
+	}
+}
+
+KOMATO = {
+	category = "Avian"
+	ship_names = {
+		generic = {
+			AVI1_SHIP_SoaringHatchling AVI1_SHIP_FightingHatchling AVI1_SHIP_NimbleHatchling AVI1_SHIP_DefiantHatchling AVI1_SHIP_ResilientHatchling AVI1_SHIP_FuriousHatchling AVI1_SHIP_ConfidentHatchling AVI1_SHIP_CleverHatchling AVI1_SHIP_CunningHatchling AVI1_SHIP_ProdigalHatchling AVI1_SHIP_JubilantHatchling AVI1_SHIP_ImpudentHatchling AVI1_SHIP_CrazyHatchling AVI1_SHIP_ObservantHatchling AVI1_SHIP_VengefulHatchling AVI1_SHIP_SpitefulHatchling AVI1_SHIP_VindictiveHatchling AVI1_SHIP_RestlessHatchling AVI1_SHIP_RavenousHatchling AVI1_SHIP_RuthlessHatchling AVI1_SHIP_BraveHatchling AVI1_SHIP_FearlessHatchling AVI1_SHIP_JovialHatchling AVI1_SHIP_IndignantHatchling AVI1_SHIP_SlyHatchling AVI1_SHIP_SillyHatchling AVI1_SHIP_HappyHatchling AVI1_SHIP_UnstableHatchling AVI1_SHIP_PrudentHatchling AVI1_SHIP_SolitaryHatchling AVI1_SHIP_PerceptiveHatchling AVI1_SHIP_UnpredictableHatchling AVI1_SHIP_ImpetuousHatchling AVI1_SHIP_BanefulHatchling AVI1_SHIP_DeviousHatchling AVI1_SHIP_GracefulHatchling AVI1_SHIP_UnyieldingHatchling AVI1_SHIP_PatientHatchling AVI1_SHIP_StalwartHatchling AVI1_SHIP_FierceHatchling AVI1_SHIP_UnforgivingHatchling AVI1_SHIP_ImperviousHatchling AVI1_SHIP_LuckyHatchling AVI1_SHIP_CourageousHatchling AVI1_SHIP_BrashHatchling AVI1_SHIP_ImpertinentHatchling AVI1_SHIP_DependableHatchling AVI1_SHIP_SpiritedHatchling AVI1_SHIP_WildHatchling AVI1_SHIP_VivaciousHatchling AVI1_SHIP_ArdentHatchling AVI1_SHIP_VigorousHatchling AVI1_SHIP_MettlesomeHatchling AVI1_SHIP_LivelyHatchling AVI1_SHIP_BriskHatchling AVI1_SHIP_AnimatedHatchling AVI1_SHIP_TenaciousHatchling AVI1_SHIP_PertinaciousHatchling AVI1_SHIP_StubbornHatchling AVI1_SHIP_ResoluteHatchling AVI1_SHIP_ObstinateHatchling AVI1_SHIP_ObdurateHatchling AVI1_SHIP_FerociousHatchling AVI1_SHIP_FrenziedHatchling AVI1_SHIP_TempestuousHatchling AVI1_SHIP_TurbulentHatchling AVI1_SHIP_RecklessHatchling AVI1_SHIP_SavageHatchling AVI1_SHIP_UnrestrainedHatchling AVI1_SHIP_RiotousHatchling AVI1_SHIP_InsaneHatchling AVI1_SHIP_BoisterousHatchling AVI1_SHIP_RowdyHatchling AVI1_SHIP_ClamorousHatchling AVI1_SHIP_PersistentHatchling AVI1_SHIP_VehementHatchling AVI1_SHIP_ZealousHatchling AVI1_SHIP_PassionateHatchling AVI1_SHIP_RapaciousHatchling AVI1_SHIP_ValiantHatchling AVI1_SHIP_DauntlessHatchling AVI1_SHIP_StoutHatchling AVI1_SHIP_UnkemptHatchling AVI1_SHIP_UngroomedHatchling AVI1_SHIP_DerangedHatchling AVI1_SHIP_DementedHatchling AVI1_SHIP_ImpatientHatchling AVI1_SHIP_NonconformingHatchling AVI1_SHIP_ImprudentHatchling AVI1_SHIP_RashHatchling AVI1_SHIP_HeedlessHatchling AVI1_SHIP_ObliviousHatchling AVI1_SHIP_ViolentHatchling AVI1_SHIP_UndomesticatedHatchling AVI1_SHIP_FeralHatchling AVI1_SHIP_WaywardHatchling AVI1_SHIP_CapriciousHatchling AVI1_SHIP_VolatileHatchling AVI1_SHIP_MercurialHatchling AVI1_SHIP_SprightlyHatchling AVI1_SHIP_BlitheHatchling AVI1_SHIP_MerryHatchling AVI1_SHIP_JoyousHatchling AVI1_SHIP_CheerfulHatchling AVI1_SHIP_BuoyantHatchling AVI1_SHIP_InvigoratedHatchling AVI1_SHIP_MirthfulHatchling AVI1_SHIP_SpryHatchling AVI1_SHIP_AlertHatchling AVI1_SHIP_HeadstrongHatchling AVI1_SHIP_UnrulyHatchling AVI1_SHIP_RefractoryHatchling AVI1_SHIP_EccentricHatchling AVI1_SHIP_ErraticHatchling AVI1_SHIP_PeculiarHatchling AVI1_SHIP_DeviantHatchling AVI1_SHIP_TestyHatchling AVI1_SHIP_CrossHatchling AVI1_SHIP_IrascibleHatchling AVI1_SHIP_CholericHatchling AVI1_SHIP_WrathfulHatchling AVI1_SHIP_BrusqueHatchling AVI1_SHIP_GruffHatchling AVI1_SHIP_SurlyHatchling AVI1_SHIP_UncivilHatchling AVI1_SHIP_CrabbyHatchling AVI1_SHIP_SullenHatchling AVI1_SHIP_SpleneticHatchling AVI1_SHIP_OminousHatchling AVI1_SHIP_GloomyHatchling AVI1_SHIP_DourHatchling AVI1_SHIP_ImperiousHatchling AVI1_SHIP_HaughtyHatchling AVI1_SHIP_ProudHatchling AVI1_SHIP_ScornfulHatchling AVI1_SHIP_ContemptuousHatchling AVI1_SHIP_SuperciliousHatchling AVI1_SHIP_SingingHatchling AVI1_SHIP_AttentiveHatchling AVI1_SHIP_WatchfulHatchling AVI1_SHIP_ImpishHatchling
+		}
+
+		corvette = {
+		}
+
+		destroyer = {
+		}
+
+		cruiser = {
+		}
+
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+
+		science = {
+		}
+
+		colonizer = {
+		}
+
+		constructor = {
+		}
+
+		transport = {
+		}
+
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	ship_class_names = {
+		generic = {
+			AVI1_CLASS_VTaka AVI1_CLASS_KMirom AVI1_CLASS_MIskarRo AVI1_CLASS_SPorak AVI1_CLASS_SKothan AVI1_CLASS_JKal AVI1_CLASS_Yeerel AVI1_CLASS_Yaaskan AVI1_CLASS_LDorak AVI1_CLASS_Bwiik AVI1_CLASS_Kraanak AVI1_CLASS_JVorok AVI1_CLASS_MSarok AVI1_CLASS_STirani AVI1_CLASS_VIrimak AVI1_CLASS_STarok AVI1_CLASS_MIsoram AVI1_CLASS_DPanokRo AVI1_CLASS_VBamiRo AVI1_CLASS_Yaruuk AVI1_CLASS_Bwaaki AVI1_CLASS_Koruuk AVI1_CLASS_KTanek AVI1_CLASS_SKiro AVI1_CLASS_DDaduro AVI1_CLASS_JKilar AVI1_CLASS_SRarako AVI1_CLASS_VKorun AVI1_CLASS_VTuriRo
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			AVI1_FLEET_GildedStarFlock AVI1_FLEET_PlumedStarFlock AVI1_FLEET_ReveredStarFlock AVI1_FLEET_HonoredStarFlock AVI1_FLEET_SoaringStarFlock AVI1_FLEET_PerchedStarFlock AVI1_FLEET_YSarkaStarFlock AVI1_FLEET_URuusuStarFlock AVI1_FLEET_SSaronaStarFlock AVI1_FLEET_TTsonaStarFlock AVI1_FLEET_YTranaStarFlock AVI1_FLEET_SItanisStarFlock AVI1_FLEET_YYsonniStarFlock
+		}
+		sequential_name = AVI1_STARFLOCK
+	}
+
+	army_names = {
+		machine_defense = {
+			sequential_name = AVI1_SECURITYWING
+		}
+
+		machine_assault_1 = {
+			sequential_name = AVI1_SPACEBORNE
+		}
+
+		machine_assault_2 = {
+			sequential_name = AVI1_SPACEBORNE
+		}
+
+		machine_assault_3 = {
+			sequential_name = AVI1_SPACEBORNE
+		}
+
+		defense_army = {
+			sequential_name = AVI1_SECURITYWING
+		}
+
+		assault_army = {
+			sequential_name = AVI1_SPACEBORNE
+		}
+
+		slave_army = {
+			sequential_name = AVI1_SERVILEARMY
+		}
+
+		clone_army = {
+			sequential_name = AVI1_CLONEFRONT
+		}
+
+		undead_army = {
+			sequential_name = AVI1_DREADARMY
+		}
+
+		robotic_army = {
+			sequential_name = AVI1_MACHINECOLUMN
+		}
+
+		robotic_defense_army = {
+			sequential_name = AVI1_MACHINESENTINELS
+		}
+
+		psionic_army = {
+			sequential_name = AVI1_TELEPATHICORDER
+		}
+
+		xenomorph_army = {
+			sequential_name = AVI1_XENOHERD
+		}
+
+		gene_warrior_army = {
+			sequential_name = AVI1_DEATHCOMMANDO
+		}
+
+		occupation_army = {
+			sequential_name = AVI1_OCCUPATIONWING
+		}
+
+		robotic_occupation_army = {
+			sequential_name = AVI1_OCCUPATIONMACHINES
+		}
+
+		primitive_army = {
+			sequential_name = AVI1_PRIMITIVEARMY
+		}
+		industrial_army = {
+			sequential_name = AVI1_INDUSTRIALARMY
+		}
+		postatomic_army = {
+			sequential_name = AVI1_POSTATOMICARMY
+		}
+	}
+
+	planet_names = {
+		generic = {
+			names = {
+			}
+		}
+
+		pc_desert = {
+			names = {
+			}
+		}
+
+		pc_tropical = {
+			names = {
+			}
+		}
+
+		pc_arid = {
+			names = {
+			}
+		}
+
+		pc_continental = {
+			names = {
+				# KOMATO_PLANET_Tadezocora Already taken
+				KOMATO_PLANET_Antarisho KOMATO_PLANET_Au_Es KOMATO_Planet_Ciretako KOMATO_PLANET_Ika KOMATO_PLANET_Klasmanio KOMATO_PLANET_Mashajhok_Kasa KOMATO_PLANET_Shuwajaxu KOMATO_PLANET_Turohauk
+			}
+		}
+
+		pc_ocean = {
+			names = {
+			}
+		}
+
+		pc_tundra = {
+			names = {
+			}
+		}
+
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+	}
+
+	character_names = {
+		default = {
+			first_names = {
+				KOMATO_CHR_Aheli KOMATO_CHR_Anbevi KOMATO_CHR_Anvakta KOMATO_CHR_Anzoma KOMATO_CHR_Asfaroi KOMATO_CHR_Asha KOMATO_CHR_Ashber KOMATO_CHR_Ashelhauk KOMATO_CHR_Ashniber KOMATO_CHR_Astor KOMATO_CHR_Ateesto KOMATO_CHR_Au KOMATO_CHR_Auratoh KOMATO_CHR_Aurobu KOMATO_CHR_Ausu KOMATO_CHR_Auwak KOMATO_CHR_Auzefei KOMATO_CHR_Ba KOMATO_CHR_Baqu KOMATO_CHR_Batasa KOMATO_CHR_Bauni KOMATO_CHR_Baviem KOMATO_CHR_Bawa KOMATO_CHR_Be KOMATO_CHR_Bede KOMATO_CHR_Bei KOMATO_CHR_Bepei KOMATO_CHR_Berem KOMATO_CHR_Berotpak KOMATO_CHR_Betorsa KOMATO_CHR_Bewu KOMATO_CHR_Bu KOMATO_CHR_Bunazo KOMATO_CHR_Butie KOMATO_CHR_Buyi KOMATO_CHR_Buzon KOMATO_CHR_Cati KOMATO_CHR_Cerisha KOMATO_CHR_Conaot KOMATO_CHR_Coro KOMATO_CHR_Cosaeco KOMATO_CHR_Cotorni KOMATO_CHR_Coturie KOMATO_CHR_Debapa KOMATO_CHR_Dehemtor KOMATO_CHR_Dejama KOMATO_CHR_Delli KOMATO_CHR_Delpay KOMATO_CHR_Deltojaro KOMATO_CHR_Elbu KOMATO_CHR_Elhas KOMATO_CHR_Elhasan KOMATO_CHR_Emhaja KOMATO_CHR_Eri KOMATO_CHR_Esa KOMATO_CHR_Esmah KOMATO_CHR_Esuvi KOMATO_CHR_Esvaksun KOMATO_CHR_Fahasma KOMATO_CHR_Fasiebe KOMATO_CHR_Fayati KOMATO_CHR_Feidesho KOMATO_CHR_Feirakotem KOMATO_CHR_Gejacora KOMATO_CHR_Gekeelzo KOMATO_CHR_Gerakka KOMATO_CHR_Gevi KOMATO_CHR_Grento KOMATO_CHR_Haniri KOMATO_CHR_Hariewu KOMATO_CHR_Hasa KOMATO_CHR_Hasetei KOMATO_CHR_Hasmah KOMATO_CHR_Hasnio KOMATO_CHR_Hasroi KOMATO_CHR_Hassali KOMATO_CHR_Hasta KOMATO_CHR_Hastodel KOMATO_CHR_Haukot KOMATO_CHR_Hauksha KOMATO_CHR_Helri KOMATO_CHR_Heltei KOMATO_CHR_Hember KOMATO_CHR_Hemesko KOMATO_CHR_Hemvi KOMATO_CHR_Iosa KOMATO_CHR_Irai KOMATO_CHR_Ja KOMATO_CHR_Jaau KOMATO_CHR_Jahauk KOMATO_CHR_Jali KOMATO_CHR_Jao KOMATO_CHR_Jaoemni KOMATO_CHR_Jefei KOMATO_CHR_Jevak KOMATO_CHR_Jexao KOMATO_CHR_Juibertei KOMATO_CHR_Kahapa KOMATO_CHR_Kairoi KOMATO_CHR_Kaiya KOMATO_CHR_Ke KOMATO_CHR_Kerohasel KOMATO_CHR_Keto KOMATO_CHR_Klas KOMATO_CHR_Leisun KOMATO_CHR_Li KOMATO_CHR_Licehel KOMATO_CHR_Licozon KOMATO_CHR_Lioma KOMATO_CHR_Liquh KOMATO_CHR_Litor KOMATO_CHR_Livigren KOMATO_CHR_Losho KOMATO_CHR_Maeri KOMATO_CHR_Mahesmae KOMATO_CHR_Mahnio KOMATO_CHR_Maoliem KOMATO_CHR_Mapei KOMATO_CHR_Mateii KOMATO_CHR_Mavatonio KOMATO_CHR_Namahot KOMATO_CHR_Naperak KOMATO_CHR_Nasatorai KOMATO_CHR_Nawa KOMATO_CHR_Ni KOMATO_CHR_Nihel KOMATO_CHR_Nio KOMATO_CHR_Niodely KOMATO_CHR_Ohauk KOMATO_CHR_Osaklas KOMATO_CHR_Otber KOMATO_CHR_Ottohas KOMATO_CHR_Pa KOMATO_CHR_Pah KOMATO_CHR_Payjaxu KOMATO_CHR_Payma KOMATO_CHR_Payrie KOMATO_CHR_Payroica KOMATO_CHR_Payuka KOMATO_CHR_Pean KOMATO_CHR_Peinioca KOMATO_CHR_Perie KOMATO_CHR_Petorel KOMATO_CHR_Qudel KOMATO_CHR_Qygren KOMATO_CHR_Rai KOMATO_CHR_Raisak KOMATO_CHR_Ranibewu KOMATO_CHR_Rihauk KOMATO_CHR_Roivi KOMATO_CHR_Roquh KOMATO_CHR_Roxayi KOMATO_CHR_Sae KOMATO_CHR_Saejao KOMATO_CHR_Saerak KOMATO_CHR_Saesie KOMATO_CHR_Saeta KOMATO_CHR_Saewa KOMATO_CHR_Saewu KOMATO_CHR_Saki KOMATO_CHR_Sakja KOMATO_CHR_Sakteto KOMATO_CHR_Saktoro KOMATO_CHR_Satesja KOMATO_CHR_Sha KOMATO_CHR_Shaba KOMATO_CHR_Shamakai KOMATO_CHR_Sharaceti KOMATO_CHR_Shatei KOMATO_CHR_Shavamah KOMATO_CHR_Shokaiya KOMATO_CHR_Shomahtu KOMATO_CHR_Shotupa KOMATO_CHR_Sie KOMATO_CHR_Siena KOMATO_CHR_Siero KOMATO_CHR_Siete KOMATO_CHR_Sunwaktor KOMATO_CHR_Tarixuro KOMATO_CHR_Tebusjua KOMATO_CHR_Tegesun KOMATO_CHR_Tei KOMATO_CHR_Teihasel KOMATO_CHR_Teixato KOMATO_CHR_Teloro KOMATO_CHR_Teroma KOMATO_CHR_Tetorni KOMATO_CHR_Ti KOMATO_CHR_Tieropay KOMATO_CHR_Toba KOMATO_CHR_Tohankai KOMATO_CHR_Toheska KOMATO_CHR_Toniterai KOMATO_CHR_Tor KOMATO_CHR_Torash KOMATO_CHR_Tormaebu KOMATO_CHR_Torrabaya KOMATO_CHR_Tortie KOMATO_CHR_Tubuvak KOMATO_CHR_Tupei KOMATO_CHR_Tushata KOMATO_CHR_Una KOMATO_CHR_Uusun KOMATO_CHR_Vakalei KOMATO_CHR_Vakesha KOMATO_CHR_Valii KOMATO_CHR_Varo KOMATO_CHR_Vasa KOMATO_CHR_Vazonja KOMATO_CHR_Vilokato KOMATO_CHR_Viramah KOMATO_CHR_Viri KOMATO_CHR_Voe KOMATO_CHR_Voekasho KOMATO_CHR_Wakeske KOMATO_CHR_Waktaka KOMATO_CHR_Wulei KOMATO_CHR_Wurie KOMATO_CHR_Xa KOMATO_CHR_Xadelhauk KOMATO_CHR_Xao KOMATO_CHR_Xarai KOMATO_CHR_Xavi KOMATO_CHR_Xube KOMATO_CHR_Xubusak KOMATO_CHR_Xuge KOMATO_CHR_Xuhauk KOMATO_CHR_Xuroi KOMATO_CHR_Xusa KOMATO_CHR_Xusakya KOMATO_CHR_Xusun KOMATO_CHR_Xutei KOMATO_CHR_Yahesk KOMATO_CHR_Yahlei KOMATO_CHR_Yahli KOMATO_CHR_Yahra KOMATO_CHR_Yao KOMATO_CHR_Yapakte KOMATO_CHR_Yaqupay KOMATO_CHR_Yasjulo KOMATO_CHR_Yeke KOMATO_CHR_Yiyu KOMATO_CHR_Yrie KOMATO_CHR_Yubi KOMATO_CHR_Yufei KOMATO_CHR_Yugewu KOMATO_CHR_Yuroi KOMATO_CHR_Yusae KOMATO_CHR_Yusak KOMATO_CHR_Yuta KOMATO_CHR_Yva KOMATO_CHR_Zeberan KOMATO_CHR_Zeca KOMATO_CHR_Zehas KOMATO_CHR_Zekailo KOMATO_CHR_Zevitei KOMATO_CHR_Zokepei KOMATO_CHR_Zon KOMATO_CHR_Zondebaot KOMATO_CHR_Zonharak KOMATO_CHR_Zonio KOMATO_CHR_Zonjapako KOMATO_CHR_Zonna KOMATO_CHR_Zontu KOMATO_CHR_Zozenata
+			}
+
+			second_names = {
+				KOMATO_CHR_Asna KOMATO_CHR_Behem KOMATO_CHR_Besiena KOMATO_CHR_Bewak KOMATO_CHR_Buhastahel KOMATO_CHR_Buyah KOMATO_CHR_Ce KOMATO_CHR_Cekai KOMATO_CHR_Cozea KOMATO_CHR_Decaa KOMATO_CHR_Delha KOMATO_CHR_Deyi KOMATO_CHR_Esk KOMATO_CHR_Essak KOMATO_CHR_Fagren KOMATO_CHR_Haasa KOMATO_CHR_Hasot KOMATO_CHR_Hato KOMATO_CHR_Helto KOMATO_CHR_Hemriesk KOMATO_CHR_Ikahas KOMATO_CHR_Jao KOMATO_CHR_Jexa KOMATO_CHR_Jeyu KOMATO_CHR_Jhokro KOMATO_CHR_Kahel KOMATO_CHR_Ke KOMATO_CHR_Ketosun KOMATO_CHR_Lo KOMATO_CHR_Losho KOMATO_CHR_Mator KOMATO_CHR_Natei KOMATO_CHR_Niri KOMATO_CHR_Otdel KOMATO_CHR_Pahes KOMATO_CHR_Pake KOMATO_CHR_Paktubero KOMATO_CHR_Qyan KOMATO_CHR_Rabuco KOMATO_CHR_Rakrai KOMATO_CHR_Ro KOMATO_CHR_Rodel KOMATO_CHR_Rosun KOMATO_CHR_Sabeze KOMATO_CHR_Saetoh KOMATO_CHR_Sakel KOMATO_CHR_Sakera KOMATO_CHR_Sha KOMATO_CHR_Shasha KOMATO_CHR_Sho KOMATO_CHR_Sunlonio KOMATO_CHR_Ta KOMATO_CHR_Tataber KOMATO_CHR_Tei KOMATO_CHR_Tofao KOMATO_CHR_Torber KOMATO_CHR_Vaemash KOMATO_CHR_Valei KOMATO_CHR_Vashode KOMATO_CHR_Vi KOMATO_CHR_Viba KOMATO_CHR_Wahem KOMATO_CHR_Wakrai KOMATO_CHR_Waturi KOMATO_CHR_Wuria KOMATO_CHR_Xebe KOMATO_CHR_Xuta KOMATO_CHR_Xuya KOMATO_CHR_Yavoe KOMATO_CHR_Yirai KOMATO_CHR_Yu KOMATO_CHR_Ze
+			}
+		}
+	}
+}

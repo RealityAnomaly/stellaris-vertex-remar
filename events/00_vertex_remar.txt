@@ -1,0 +1,20 @@
+namespace = vertex_remar_events
+
+event = {
+  id = vertex_remar_events.1 # on_game_start
+	is_triggered_only = yes
+  hide_window = yes
+
+	immediate = {
+		every_playable_country = {
+			limit = { has_country_flag = vertex_country_tasen }
+			vertex_start_effect_tasen = yes
+		}
+
+		every_playable_country = {
+			limit = { has_country_flag = vertex_country_komato }
+			vertex_start_effect_komato = yes
+		}
+	}
+}
+

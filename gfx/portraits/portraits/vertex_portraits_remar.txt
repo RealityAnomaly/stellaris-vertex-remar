@@ -1,0 +1,21 @@
+portraits = {
+	tasen_soldier_vateilika = {
+		greeting_sound = "reptilian_01_greetings"
+		texturefile = "gfx/models/portraits/tasen_soldier_vateilika.dds"
+	}
+
+	komato_assassin_asha = {
+		greeting_sound = "avian_01_greetings"
+		texturefile = "gfx/models/portraits/komato_assassin_asha.dds"
+	}
+}
+
+portrait_groups = {
+	tasen = {
+		default = tasen_soldier_vateilika
+	}
+
+	komato = {
+		default = komato_assassin_asha
+	}
+}
